@@ -6,7 +6,7 @@ gem 'jekyll', '4.3.3'
 
 group :jekyll_plugins do
   gem "jekyll-feed", '0.17.0'
-  gem "jekyll-menus", '0.0.0'
+  gem "jekyll-menus", '0.6.1'
   gem "jekyll-tagging", '1.1.0'
   gem "jekyll-archives", '2.2.1'
 end
